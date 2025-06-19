@@ -44,4 +44,4 @@ Generated for learning and portfolio showcasing.
 ##  Contact
 
 - ✉️ Email: msiva0197@gmail.com  
-- 🔗 GitHub: [github.com/msiva0197]
+- 🔗 GitHub: https://github.com/msiva0197
